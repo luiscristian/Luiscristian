@@ -1,5 +1,24 @@
 # 💫 About Me:
- <br><br>**¡Hola, mundo! 👋**<br><br>Soy Luis Cristian, un apasionado de la tecnología y el desarrollo de software con una mente inquieta y un deseo ardiente de contribuir al emocionante mundo de la programación. Permíteme presentarme en detalle:<br><br>**🚀 Mi Viaje en el Desarrollo de Software**<br>Desde mi primer "Hola, mundo" en la programación, supe que había encontrado mi pasión. A lo largo de los años, he perfeccionado mi arte, explorando cada rincón del desarrollo web y de software. Mi enfoque siempre ha sido superar los límites y crear soluciones que inspiren.<br><br>**💡 Innovación y Creatividad**<br>Considero que la programación es una forma de expresión artística. Cada línea de código es una oportunidad para crear algo nuevo y sorprendente. Me encanta pensar fuera de la caja y encontrar soluciones únicas para los desafíos más complejos.<br><br>**📚 Aprendizaje Perpetuo**<br>Creo firmemente que el aprendizaje nunca debe detenerse. Todos los días, me sumerjo en la tecnología más reciente, explorando nuevas herramientas, lenguajes y tendencias. Estoy comprometido con el crecimiento constante y la mejora continua.<br><br>**🌐 Más Allá de la Programación**<br>Mi pasión por la programación es solo una parte de quién soy. Mi vida está llena de intereses diversos, desde el Taekwondo ITF hasta la medicina china, pasando por el dibujo, el cine y la literatura. Esta diversidad me permite relacionarme con personas de diferentes campos y comprender perspectivas variadas.<br><br>**💼 Experiencia Profesional**<br>Además de mi experiencia en desarrollo de software, he trabajado en roles administrativos, atención al cliente, administrativo en auditoría médica, administrativo en sector contable y actualmente en facturación de obras sociales. Esta experiencia me ha enseñado a comunicarme de manera efectiva, aportando habilidades de resolución de problemas y organización a mi conjunto de habilidades.<br><br>**🌟 Mis Metas y Sueños**<br>Mi objetivo es hacer una diferencia en el mundo a través de la tecnología. Sueño con contribuir a proyectos innovadores, trabajar en equipos apasionados y llevar mis habilidades al siguiente nivel. Estoy emocionado por el viaje que me espera y las oportunidades de crecimiento que están por venir.<br><br>**🤝 Conéctate Conmigo**<br>Estoy ansioso por conectarme con otros apasionados de la programación, colaborar en proyectos emocionantes y aprender de personas talentosas como tú. No dudes en enviarme un mensaje si deseas hablar sobre tecnología, proyectos colaborativos o cualquier otra cosa que te apasione.<br><br>¡Estemos en contacto siempre! 👨💻🌟 Juntos, podemos hacer del mundo de la programación un lugar más emocionante y creativo. ¡Hablemos pronto! 👨‍💻🌟<br><br>---<br>
+## Arreglo bugs
+
+Si estás trabado con un error puntual:
+- reviso
+- pruebo
+- destrabo
+
+📩 Escribime en privado.
+
+ Qué hago hoy
+Trabajo con código real en producción y problemas concretos. Me enfoco en: - debugging - lectura de código existente - integración y ajuste de librerías - detección de errores silenciosos - resolución de bloqueos que frenan proyectos
+Busco destrabar y cerrar.
+
+Cómo trabajo
+•	analizo el problema sin asumir
+•	pruebo en pequeño
+•	leo documentación y código
+•	valido la solución
+•	dejo el error resuelto o claramente delimitado
+La claridad es parte del trabajo.
 
 
 ## 🌐 Socials:
