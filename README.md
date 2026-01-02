@@ -5,7 +5,7 @@
 Si estás trabado con un error puntual:
 - reviso
 - pruebo
-- destrabo
+- aíslo el problema
 
 📩 **Escribime en privado.**
 
@@ -29,7 +29,7 @@ Busco **destrabar y cerrar**.
 ## Cómo trabajo
 
 - analizo el problema sin asumir  
-- pruebo en pequeño  
+- pruebo en entornos controlados 
 - leo documentación y código  
 - valido la solución  
 - dejo el error resuelto o claramente delimitado  
