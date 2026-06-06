@@ -10,7 +10,7 @@ Código claro, ideas fuertes.
 
 ## 👋 Who I Am
 
-Digital creator & systems thinker.
+Digital creator, self-taught developer & systems thinker.
 
 I build mobile apps, web projects, digital products and learning experiences using modern development tools and AI-assisted workflows.
 
@@ -26,6 +26,16 @@ Based in Salta, Argentina.
 * AI-assisted development
 * Personal digital products
 * Continuous learning and experimentation
+
+---
+
+## 🌟 Featured Projects
+
+* 📱 Reloj con Audio
+* 🧠 Juego Memoria
+* ⚖️ Aceptar - No Aceptar Beta
+* 💻 Portfolio 2026
+* 📋 Vacaciones Beta
 
 ---
 
@@ -93,6 +103,11 @@ Published books:
 ## 📖 My Journey
 
 My path into technology was not linear.
+
+Years of work experience, continuous learning, creativity and experimentation shaped the way I approach projects today.
+
+Code evolves. Experience remains.
+
 
 Years of real-world work, continuous learning, creativity and experimentation helped shape the way I approach projects today.
 
