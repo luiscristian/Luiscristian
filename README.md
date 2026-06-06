@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="URL_DE_TU_LOGO" width="180">
+  <img src="./98.png" width="250">
 </p>
+
+<h3 align="center">
+Código claro, ideas fuertes.
+</h3>
 
 # 💫 About Me
 
