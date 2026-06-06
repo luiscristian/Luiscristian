@@ -1,106 +1,97 @@
+<p align="center">
+  <img src="URL_DE_TU_LOGO" width="180">
+</p>
+
 # 💫 About Me
 
-## 🛠️ Arreglo bugs
+## 👋 Who I Am
 
-Si estás trabado con un error puntual:
-- reviso
-- pruebo
-- aíslo el problema
+Digital creator & systems thinker.
 
-📩 **Escribime en privado.**
+I build mobile apps, web projects, digital products and learning experiences using modern development tools and AI-assisted workflows.
 
----
-
-## Qué hago hoy
-
-Trabajo con **código real en producción** y problemas concretos.  
-Me enfoco en:
-
-- debugging  
-- lectura de código existente  
-- integración y ajuste de librerías  
-- detección de errores silenciosos  
-- resolución de bloqueos que frenan proyectos  
-
-Busco **destrabar y cerrar**.
+Based in Salta, Argentina.
 
 ---
 
-## Cómo trabajo
+## 🚀 What I'm Working On
 
-- analizo el problema sin asumir  
-- pruebo en entornos controlados 
-- leo documentación y código  
-- valido la solución  
-- dejo el error resuelto o claramente delimitado  
-
-La claridad es parte del trabajo.
-
----
-
-## Technologies I work with
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apachecordova&logoColor=white)
-![Android WebView](https://img.shields.io/badge/Android_WebView-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+* Frontend development
+* Mobile applications
+* Android publishing
+* AI-assisted development
+* Personal digital products
+* Continuous learning and experimentation
 
 ---
 
-### Approach
+## 🛠️ Technologies
 
-![Debugging](https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=bugatti&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-4A4A4A?style=for-the-badge&logo=tools&logoColor=white)
+### Development
 
----
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 
-## 📊 GitHub Stats
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=Luiscristian&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Luiscristian&theme=nightowl&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiscristian&theme=nightowl&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Luiscristian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge\&logo=apachecordova\&logoColor=white)
+![Android WebView](https://img.shields.io/badge/Android_WebView-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
 ---
 
-### ✍️ Random Dev Quote
+## 🧰 Tools & Platforms
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Development
+
+* Android Studio
+* Git
+* GitHub
+* GitHub Pages
+
+### Design
+
+* GIMP
+* Krita
+
+### Video & Audio
+
+* DaVinci Resolve
+* Audacity
+
+### Publishing
+
+* Google Play Console
+* Gumroad
+* Autores Editores
+
+### AI Assisted Workflow
+
+* ChatGPT
+* Gemini
+* Pika
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Luiscristian&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📚 Beyond Code
+
+Also interested in writing and digital publishing.
+
+Published books:
+
+* El Tren de las Noches Eternas
+* El Viajero en lo Invisible
+* Programar desde Cero: HTML5 y CSS3 para Humanos Reales
 
 ---
 
-## About my journey
+## 📖 My Journey
 
-Mi camino en el desarrollo no fue lineal.  
-Vengo de experiencias diversas y años de práctica real, lo que me dio criterio,
-paciencia y enfoque para resolver problemas concretos.
+My path into technology was not linear.
 
-La historia completa de mi recorrido y evolución está preservada como parte del proceso.
+Years of real-world work, continuous learning, creativity and experimentation helped shape the way I approach projects today.
 
-_El código cambia. La experiencia queda._
+Code evolves.
+Experience remains.
 
----
-
-## 💰 You can help me by donating
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sijhave.com)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
