@@ -10,13 +10,13 @@ Código claro, ideas fuertes.
 
 ## 👋 Who I Am
 
-Digital creator, developer, systems thinker and programming student.
+I am a digital creator, developer, systems thinker and programming student.
 
 I build mobile apps, web projects, digital products and learning experiences using modern development tools and AI-assisted workflows.
 
-🎓 Currently student the **Tecnicatura Universitaria en Programación** at **UTN San Nicolás**.
+🎓 I am currently a student of the **Tecnicatura Universitaria en Programación** at **UTN San Nicolás**.
 
-Based in Salta, Argentina.
+I am based in Salta, Argentina.
 
 ---
 
@@ -95,7 +95,7 @@ Based in Salta, Argentina.
 
 ## 📚 Beyond Code
 
-Also interested in writing and digital publishing.
+I am also interested in writing and digital publishing.
 
 Published books:
 
@@ -110,8 +110,12 @@ Published books:
 
 My path into technology was not linear.
 
-Years of real-world experience, continuous learning, creativity and experimentation shaped the way I approach projects today.
+Years of real-world experience, continuous learning, creativity and experimentation have shaped the way I approach projects today.
 
-Today, that journey continues through formal university studies in programming, combining previous experience with new foundations in computer science and software development.
+Today, I continue that journey through formal university studies in programming, combining my previous experience with new foundations in computer science and software development.
 
 **Code evolves. Experience remains.**
+
+---
+
+*Last updated: August 24, 2026*
