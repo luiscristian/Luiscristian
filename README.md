@@ -10,9 +10,11 @@ Código claro, ideas fuertes.
 
 ## 👋 Who I Am
 
-Digital creator, self-taught developer & systems thinker.
+Digital creator, developer, systems thinker and programming student.
 
 I build mobile apps, web projects, digital products and learning experiences using modern development tools and AI-assisted workflows.
+
+🎓 Currently studying the **Tecnicatura Universitaria en Programación** at **UTN San Nicolás**.
 
 Based in Salta, Argentina.
 
@@ -20,12 +22,13 @@ Based in Salta, Argentina.
 
 ## 🚀 What I'm Working On
 
-* Frontend development
-* Mobile applications
-* Android publishing
-* AI-assisted development
-* Personal digital products
-* Continuous learning and experimentation
+* 🎓 University studies in Programming
+* 🐍 Python and programming fundamentals
+* 🌐 Frontend development
+* 📱 Mobile applications
+* 🤖 AI-assisted development
+* 📚 Digital publishing
+* 🧪 Continuous learning and experimentation
 
 ---
 
@@ -43,15 +46,16 @@ Based in Salta, Argentina.
 
 ### Development
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge\&logo=apachecordova\&logoColor=white)
-![Android WebView](https://img.shields.io/badge/Android_WebView-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apachecordova&logoColor=white)
+![Android WebView](https://img.shields.io/badge/Android_WebView-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -59,6 +63,7 @@ Based in Salta, Argentina.
 
 ### Development
 
+* Visual Studio Code
 * Android Studio
 * Git
 * GitHub
@@ -80,7 +85,7 @@ Based in Salta, Argentina.
 * Gumroad
 * Autores Editores
 
-### AI Assisted Workflow
+### AI-Assisted Workflow
 
 * ChatGPT
 * Gemini
@@ -94,6 +99,7 @@ Also interested in writing and digital publishing.
 
 Published books:
 
+* El que apareció sin que lo hubieran esperado
 * El Tren de las Noches Eternas
 * El Viajero en lo Invisible
 * Programar desde Cero: HTML5 y CSS3 para Humanos Reales
@@ -104,13 +110,8 @@ Published books:
 
 My path into technology was not linear.
 
-Years of work experience, continuous learning, creativity and experimentation shaped the way I approach projects today.
+Years of real-world experience, continuous learning, creativity and experimentation shaped the way I approach projects today.
 
-Code evolves. Experience remains.
+Today, that journey continues through formal university studies in programming, combining previous experience with new foundations in computer science and software development.
 
-
-Years of real-world work, continuous learning, creativity and experimentation helped shape the way I approach projects today.
-
-Code evolves.
-Experience remains.
-
+**Code evolves. Experience remains.**
