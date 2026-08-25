@@ -14,7 +14,7 @@ Digital creator, developer, systems thinker and programming student.
 
 I build mobile apps, web projects, digital products and learning experiences using modern development tools and AI-assisted workflows.
 
-🎓 Currently studying the **Tecnicatura Universitaria en Programación** at **UTN San Nicolás**.
+🎓 Currently student the **Tecnicatura Universitaria en Programación** at **UTN San Nicolás**.
 
 Based in Salta, Argentina.
 
